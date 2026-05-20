@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What is ATM",
+    "answer": "ATM stands for Automated Teller Machine used for banking transactions."
+  },
+  {
+    "question": "What is an Automated Teller Machine",
+    "answer": "It is a machine used to withdraw cash and perform banking services."
+  },
+  {
+    "question": "How to withdraw money from ATM",
+    "answer": "Insert card, enter PIN, select withdrawal, and take cash."
+  },
+  {
+    "question": "What are your working hours",
+    "answer": "We are open from 9 AM to 6 PM Monday to Friday."
+  }
+]
